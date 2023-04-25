@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluationManagerG11", "EvaluationManagerG11\EvaluationManagerG11.csproj", "{1D9AB348-B444-4C86-99D9-F74C599DDA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9AB348-B444-4C86-99D9-F74C599DDA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9AB348-B444-4C86-99D9-F74C599DDA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9AB348-B444-4C86-99D9-F74C599DDA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9AB348-B444-4C86-99D9-F74C599DDA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C16E656-EC09-4727-AC51-5B3F17328AEE}
+	EndGlobalSection
+EndGlobal
